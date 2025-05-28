@@ -9,10 +9,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=WuangTX&theme=cobalt&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=WuangTX&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=WuangTX&limit=5&theme=dracula&combine_all_yearly_contributions=true)
-
----
 [![](https://visitcount.itsvg.in/api?id=WuangTX&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
